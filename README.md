@@ -4,7 +4,7 @@ Hi 👋 My name is Gauri
 --------------------------------------
 
 #### Current Master in Data Science student (2024), Indiana University Bloomington. 
-I'm a former platform engineer who has completed her Bachelor in Engineering from University of Pune in 2018. I take pride in my ability to turn raw, unrefined data into **valuable insights** that drive meaningful change.
+I'm a former platform engineer who has completed her Bachelor in Engineering from University of Pune in 2019. I take pride in my ability to turn raw, unrefined data into **valuable insights** that drive meaningful change.
 
 *   🌍  I'm based in United States
 *   ✉️  You can contact me at [gchaudh@iu.edu](mailto:gchaudh@iu.edu)
