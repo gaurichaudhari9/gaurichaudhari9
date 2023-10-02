@@ -3,6 +3,9 @@ Hi 👋 My name is Gauri
 ### Data Science, Machine Learning
 --------------------------------------
 
+### Hey, Thanks for taking a peek! 🥳 
+![](https://komarev.com/ghpvc/?username=gaurichaudhari9&style=plastic&label=profile+views&color=orange) 
+
 #### Current Master in Data Science student (2024), Indiana University Bloomington. 
 I'm a former platform engineer who has completed her Bachelor in Engineering from University of Pune in 2019. I take pride in my ability to turn raw, unrefined data into **valuable insights** that drive meaningful change.
 
