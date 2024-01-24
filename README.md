@@ -1,6 +1,6 @@
 Hi 👋 My name is Gauri
 ======================================
-### Hey, Thanks for taking a peek! 🥳 
+#### Hey, Thanks for taking a peek! 🥳 
 ![](https://komarev.com/ghpvc/?username=gaurichaudhari9&style=plastic&label=profile+views&color=orange) 
 
 #### Current Master in Data Science student (2024), Indiana University Bloomington. 
