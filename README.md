@@ -1,8 +1,5 @@
 Hi 👋 My name is Gauri
 ======================================
-### Data Science, Machine Learning
---------------------------------------
-
 ### Hey, Thanks for taking a peek! 🥳 
 ![](https://komarev.com/ghpvc/?username=gaurichaudhari9&style=plastic&label=profile+views&color=orange) 
 
