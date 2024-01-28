@@ -15,6 +15,8 @@ I'm a former platform engineer who has completed her Bachelor in Engineering fro
 ### Portfolio
 
 My Website: [https://gaurichaudhari9.github.io](https://gaurichaudhari9.github.io)
+I write blogs on https://medium.com/@cyberbyte
+
 
 
 ### Skills
