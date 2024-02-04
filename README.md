@@ -11,7 +11,7 @@ I'm a former platform engineer who has completed her Bachelor in Engineering fro
 *   🧠  I'm currently working on my AWS Solutions Architect Associate Certification SAA-C03
 *   🛜  I'm open to networking and collaborating on interesting projects
 *   🤝  I'm looking for full-time opportunity in data science roles!
-
+*   👀  I have been exposed to the behavioral and psychological patterns of children on Autism spectrum, especially partially/completely non-verbal. Hence, I am actively involved with Indian NGO's in building different types of communication models since 2017.
 ### Portfolio
 
 My Website: [https://gaurichaudhari9.github.io](https://gaurichaudhari9.github.io)
