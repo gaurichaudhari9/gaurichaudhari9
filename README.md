@@ -8,7 +8,7 @@ I'm a former platform engineer who has completed her Bachelor in Engineering fro
 
 *   🌍  I'm based in United States
 *   ✉️  You can contact me at [gchaudh@iu.edu](mailto:gchaudh@iu.edu)
-*   🧠  I'm currently learning how to improve the performance of state of the art models
+*   🧠  I'm currently working on my AWS Solutions Architect Associate Certification SAA-C03
 *   🛜  I'm open to networking and collaborating on interesting projects
 *   🤝  I'm looking for full-time opportunity in data science roles!
 
