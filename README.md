@@ -7,7 +7,7 @@ Hi 👋 My name is Gauri
 I'm a former platform engineer who has completed her Bachelor in Engineering from University of Pune in 2019. I take pride in my ability to turn raw, unrefined data into **valuable insights** that drive meaningful change.
 
 *   🌍  I'm based in United States
-*   ✉️  You can contact me at [gchaudh@iu.edu](mailto:gchaudh@iu.edu)
+*   ✉️  You can contact me at [gchaudh@iu.edu](mailto:gchaudh@iu.edu) or [chaudharigauri.9@gmail.com](mailto:chaudharigauri.9@gmail.com) 
 *   🧠  I'm currently working on my AWS Solutions Architect Associate Certification SAA-C03
 *   🛜  I'm open to networking and collaborating on interesting projects
 *   🤝  I'm looking for full-time opportunity in data science roles!
