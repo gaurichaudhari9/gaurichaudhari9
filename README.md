@@ -12,6 +12,15 @@ I'm a former platform engineer who has completed her Bachelor in Engineering fro
 *   🛜  I'm open to networking and collaborating on interesting projects
 *   🤝  I'm looking for full-time opportunity in data science roles!
 
+### Certifications
+I am committed to continuous learning and development and at any day you will always find me learning something new)!
+
+
+
+
+| <img src="https://github.com/gaurichaudhari9/gaurichaudhari9/blob/main/google-data-analytics-professional-certificate.2.png" alt="Google Data Analytics Professional Certificate" width="200" /> | <img src="https://github.com/gaurichaudhari9/gaurichaudhari9/blob/main/data_engineer_associate_badge.png" alt="adam-pw" width="200" /> | <img src="https://github.com/gaurichaudhari9/gaurichaudhari9/blob/main/data_analyst_associate_badge.png" alt="adam-pw" width="200"/> | <img src="https://github.com/gaurichaudhari9/gaurichaudhari9/blob/main/sql_associate_badge.png" alt="adam-pw" width="200"/> |
+| --- | --- | --- | --- |
+
 ### Portfolio
 
 My Website: [https://gaurichaudhari9.github.io](https://gaurichaudhari9.github.io)
