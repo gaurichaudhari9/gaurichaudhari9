@@ -17,7 +17,7 @@ I'm a former platform engineer who has completed her Bachelor in Engineering fro
 
 | Project Name                             | Technologies and Techniques                          | Short Summary |
 |------------------------------------------|------------------------------------------------------|---------------|
-| [Quantitative Rzisk Analysis and Prediction of FAANG Stock Performance]([https://link_to_project_1](https://github.com/gaurichaudhari9/quantitative-analysis-tech-stock-prediction))| Python<br>Monte Carlo Simulation<br> Time Series Analysis <br> Statistics <br> Prediction Model| Quantitatively analyze and predict the risk and performance of FAANG stocks through exploratory data analysis and statistical modeling |
+| [Quantitative Risk Analysis and Prediction of FAANG Stock Performance](https://github.com/gaurichaudhari9/quantitative-analysis-tech-stock-prediction)| Python<br>Monte Carlo Simulation<br> Time Series Analysis <br> Statistics <br> Prediction Model| Quantitatively analyze and predict the risk and performance of FAANG stocks through exploratory data analysis and statistical modeling |
 | Project 2                                | Skill 3<br>Concept 2<br>Concept 3                    |
 | Project 3                                | Skill 4<br>Skill 5<br>Concept 4                      |
 
