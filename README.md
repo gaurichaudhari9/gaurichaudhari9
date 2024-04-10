@@ -27,11 +27,6 @@ My Website: [https://gaurichaudhari9.github.io](https://gaurichaudhari9.github.i
 
 I write blogs related to Data Science on on https://medium.com/@cyberbyte
 
-### Passion Project
-- I have been exposed to and grown around understanding the behavioral and psychological patterns of children on the Autism spectrum, especially partially/completely non-verbal children. Hence, I have been actively involved with Indian NGO's in building different types of communication models (picture exchange, body language, observational) since 2017. My ultimate goal is to ultimately help parents communicate and understand their child on spectrum effectively.
-- Looking forward, I aim to integrate data science and computer vision into this social science realm, seeking to enhance observability patterns for caregivers, teachers, and parents.
-  - In essence, my journey revolves around bridging the gap between autism advocacy and technological innovation, striving to create a more supportive and inclusive environment for children with unique communication needs!
-
 
 ### Skills
 
