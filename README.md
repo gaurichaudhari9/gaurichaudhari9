@@ -12,6 +12,17 @@ I'm a former platform engineer who has completed her Bachelor in Engineering fro
 *   🛜  I'm open to networking and collaborating on interesting projects
 *   🤝  I'm looking for full-time opportunity in data science roles!
 
+
+## My Projects
+
+| Project Name                             | Skills and Concepts Used                             | Language Used   |
+|------------------------------------------|------------------------------------------------------|-----------------|
+| [Project 1](https://link_to_project_1)   | Skill 1<br>Skill 2<br>Concept 1                     | Language 1      |
+| Project 2                                | Skill 3<br>Concept 2<br>Concept 3                    | Language 2      |
+| Project 3                                | Skill 4<br>Skill 5<br>Concept 4                      | Language 3      |
+
+
+
 ### Certifications
 I am committed to continuous learning and development and at any day you will always find me learning something new)!
 
