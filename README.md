@@ -18,6 +18,7 @@ I'm a former platform engineer who has completed her Bachelor in Engineering fro
 | Project Name                             | Technologies and Techniques                          |
 |------------------------------------------|------------------------------------------------------|
 | [Quantitative Risk Analysis and Prediction of FAANG Stock Performance](https://github.com/gaurichaudhari9/quantitative-analysis-tech-stock-prediction)| <li>Python</li><li>Monte Carlo Simulation</li><li> Time Series Analysis </li><li> Statistics </li><li> Prediction Model</li>|
+|[Credit Card Fraud Detection using ML](https://github.com/gaurichaudhari9/credit-card-fraud-detection-using-ml)|<li>Python</li><li>Data Transformation</li><li>Random Forest</li><li>Decision Trees</li><li>Deep Neural Network</li><li>Keras</li><li>Undersampling</li><li>Synthetic Minority Oversampling Technique</li>|
 
 
 ### Certifications
