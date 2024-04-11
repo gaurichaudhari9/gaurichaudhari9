@@ -14,6 +14,9 @@ I'm a former platform engineer who has completed her Bachelor in Engineering fro
 
 
 ## My Projects
+I am committed to continuous learning and development and at any day you will always find me learning something new!
+
+### Machine Learning Projects
 
 | Project Name                             | Skills                          |Tools|
 |------------------------------------------|------------------------------------------------------|-------|
@@ -23,7 +26,6 @@ I'm a former platform engineer who has completed her Bachelor in Engineering fro
 
 
 ### Certifications
-I am committed to continuous learning and development and at any day you will always find me learning something new)!
 
 
 
