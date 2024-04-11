@@ -22,7 +22,7 @@ I write blogs related to Data Science on on https://medium.com/@cyberbyte
 I am committed to continuous learning and development and at any day you will always find me learning something new!
 
 ### Data Visualization projects
-| Project Name                             | Skills                          |Tools|
+| Project Name                             | Tool                          |
 |------------------------------------------|------------------------------------------------------|-------|
 | [A Visual Impact on New York's Creative Pulse - ONeill School of Public Affair](https://public.tableau.com/app/profile/gauri.chaudhari/viz/AVisualImpactonNewYorksCreativePulse/CRNY)|Tableau |
 
