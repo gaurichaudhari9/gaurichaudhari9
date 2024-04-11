@@ -21,6 +21,8 @@ I write blogs related to Data Science on on https://medium.com/@cyberbyte
 ## My Projects
 I am committed to continuous learning and development and at any day you will always find me learning something new!
 
+### Data Engineering projects
+
 ### Data Visualization projects
 | Project Name                             | Tool                          |
 |------------------------------------------|------------------------------------------------------|
@@ -28,7 +30,7 @@ I am committed to continuous learning and development and at any day you will al
 
 
 
-### Machine Learning Projects
+### Machine Learning projects
 
 | Project Name                             | Skills                          |Tools|
 |------------------------------------------|------------------------------------------------------|-------|
