@@ -12,6 +12,11 @@ I'm a former platform engineer who has completed her Bachelor in Engineering fro
 *   🛜  I'm open to networking and collaborating on interesting projects
 *   🤝  I'm looking for full-time opportunity in data science roles!
 
+## Portfolio
+
+My Website: [https://gaurichaudhari9.github.io](https://gaurichaudhari9.github.io)
+
+I write blogs related to Data Science on on https://medium.com/@cyberbyte
 
 ## My Projects
 I am committed to continuous learning and development and at any day you will always find me learning something new!
@@ -25,19 +30,10 @@ I am committed to continuous learning and development and at any day you will al
 |[Boosting the sales margin of an e-commerce product using data-driven Price Optimization](https://github.com/gaurichaudhari9/Boosting-Sales-Margin-of-a-product-using-Price-Optimization)|<li>Data Preprocessing</li><li>Feature Selection</li><li>Dimensionality Reduction</li><li>Exploratory Data Analysis</li><li>Linear Regression</li><li>Ridge,Lasso Regression</li><li>Demand Curve</li>|Python </br>Matplotlib</br>Seaborn|
 
 
-### Certifications
 
 
 
 
-| <img src="https://github.com/gaurichaudhari9/gaurichaudhari9/blob/main/google-data-analytics-professional-certificate.2.png" alt="Google Data Analytics Professional Certificate" width="200" /> | <img src="https://github.com/gaurichaudhari9/gaurichaudhari9/blob/main/data_engineer_associate_badge.png" alt="adam-pw" width="200" /> | <img src="https://github.com/gaurichaudhari9/gaurichaudhari9/blob/main/data_analyst_associate_badge.png" alt="adam-pw" width="200"/> | <img src="https://github.com/gaurichaudhari9/gaurichaudhari9/blob/main/sql_associate_badge.png" alt="adam-pw" width="200"/> |
-| --- | --- | --- | --- |
-
-### Portfolio
-
-My Website: [https://gaurichaudhari9.github.io](https://gaurichaudhari9.github.io)
-
-I write blogs related to Data Science on on https://medium.com/@cyberbyte
 
 
 ### Skills
