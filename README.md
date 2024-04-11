@@ -23,7 +23,7 @@ I am committed to continuous learning and development and at any day you will al
 
 ### Data Visualization projects
 | Project Name                             | Tool                          |
-|------------------------------------------|------------------------------------------------------|-------|
+|------------------------------------------|------------------------------------------------------|
 | [A Visual Impact on New York's Creative Pulse - ONeill School of Public Affair](https://public.tableau.com/app/profile/gauri.chaudhari/viz/AVisualImpactonNewYorksCreativePulse/CRNY)|Tableau |
 
 
