@@ -21,7 +21,10 @@ I write blogs related to Data Science on on https://medium.com/@cyberbyte
 ## My Projects
 I am committed to continuous learning and development and at any day you will always find me learning something new!
 
-### Data Engineering projects
+### Statistical Analysis projects
+| Project Name                             | Tool                                                 |
+|------------------------------------------|------------------------------------------------------|
+| [East Coast Commuting Patterns Analysis](https://github.com/gaurichaudhari9/regression-analysis-stats/tree/main)|Regression analysis, R|
 
 ### Data Visualization projects
 | Project Name                             | Tool                                                 |
