@@ -3,7 +3,7 @@ Hi 👋 My name is Gauri
 #### Hey, Thanks for taking a peek! 🥳 
 ![](https://komarev.com/ghpvc/?username=gaurichaudhari9&style=plastic&label=profile+views&color=orange) 
 
-#### Current Master in Data Science student (2024), Indiana University Bloomington. 
+#### Recent Master in Data Science student (2024), Indiana University Bloomington. 
 I take pride in my ability to turn raw, unrefined data into **valuable insights** that drive meaningful change.
 
 *   🌍  I'm based in United States
