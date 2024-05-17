@@ -11,12 +11,8 @@ I take pride in my ability to turn raw, unrefined data into **valuable insights*
 *   🧠  I'm currently working on my AWS Solutions Architect Associate Certification SAA-C03
 *   🛜  I'm open to networking and collaborating on interesting projects
 *   🤝  I'm looking for full-time opportunity in data science roles!
+*   My portfolio website: [https://gaurichaudhari9.github.io](https://gaurichaudhari9.github.io)
 
-## Portfolio
-
-My Website: [https://gaurichaudhari9.github.io](https://gaurichaudhari9.github.io)
-
-I write blogs related to Data Science on on https://medium.com/@cyberbyte
 
 ## My Projects
 I am committed to continuous learning and development and at any day you will always find me learning something new!
