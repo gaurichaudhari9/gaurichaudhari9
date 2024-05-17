@@ -38,7 +38,7 @@ I am committed to continuous learning and development and at any day you will al
 |[Optimizing fraud detection in credit card transactions](https://github.com/gaurichaudhari9/credit-card-fraud-detection-using-ml)|<li>Data Transformation</li><li>Random Forest</li><li>Decision Trees</li><li>Deep Neural Network</li><li>Undersampling</li><li>Synthetic Minority Oversampling Technique</li>|
 |[Text Classification with BERT Fine-Tuning](https://github.com/gaurichaudhari9/text-classification-bert-fine-tuning)|<li>Data Scrapping</li><li>Pretrained BERT</li>|
 |[Investigating Transfer Learning and Scratch Training for Image Recognition](https://github.com/gaurichaudhari9/image-classification-cnn)|<li>Data Augmentation</li><li>Resnet50 Selection</li><li>CNN</li>|
-|[Boosting the sales margin of an e-commerce product using data-driven Price Optimization](https://github.com/gaurichaudhari9/Boosting-Sales-Margin-of-a-product-using-Price-Optimization)|<li>Data Preprocessing</li><li>Feature Selection</li><li>Dimensionality Reduction</li><li>Exploratory Data Analysis</li><li>Linear Regression</li><li>Ridge,Lasso Regression</li><li>Demand Curve</li>|Python </br>Matplotlib</br>Seaborn|
+|[Boosting the sales margin of an e-commerce product using data-driven Price Optimization](https://github.com/gaurichaudhari9/Boosting-Sales-Margin-of-a-product-using-Price-Optimization)|<li>Data Preprocessing</li><li>Feature Selection</li><li>Dimensionality Reduction</li><li>Exploratory Data Analysis</li><li>Linear Regression</li><li>Ridge,Lasso Regression</li><li>Demand Curve</li>|
 
 
 
