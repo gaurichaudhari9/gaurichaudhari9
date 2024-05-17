@@ -28,7 +28,10 @@ I am committed to continuous learning and development and at any day you will al
 |------------------------------------------|------------------------------------------------------|
 | [A Visual Impact on New York's Creative Pulse - O'Neill School of Public Affairs](https://public.tableau.com/app/profile/gauri.chaudhari/viz/AVisualImpactonNewYorksCreativePulse/CRNY)|Tableau |
 
-
+### Data Engineering projects
+| Project Name                             | Tool                                                 |
+|------------------------------------------|------------------------------------------------------|
+| [Automated Reddit Data Pipeline and Analytics using Airflow and AWS integrations](https://github.com/gaurichaudhari9/reddit-data-pipeline)|<li>ETL</li><li>Apache Airflow</li><li>Celery</li><li>PostgreSQL</li><li>AWS S3</li><li>AWS Glue</li><li>AWS Athena</li><li>AWS Redshift</li> |
 
 ### Machine Learning projects
 
