@@ -22,7 +22,7 @@ I am committed to continuous learning and development and at any day you will al
 | Project Name                             | Tool                                                 |
 |------------------------------------------|------------------------------------------------------|
 | [A Visual Impact on New York's Creative Pulse - O'Neill School of Public Affairs](https://public.tableau.com/app/profile/gauri.chaudhari/viz/AVisualImpactonNewYorksCreativePulse/CRNY)|Tableau |
-| [Exploring Autism in toddlers using matplotlib and seaborn](https://github.com/gaurichaudhari9/predicting-autism/blob/main/exploring_autism_in_toddlers.ipynb)|<li>Matplotlib</li><li>Seaborn</li> |
+| [Exploring Autism in toddlers using matplotlib and seaborn](https://github.com/gaurichaudhari9/predicting-autism/blob/main/exploring_autism_in_toddlers.ipynb)|<li>Matplotlib, Seaborn</li> |
 
 ### Statistical Analysis projects
 | Project Name                             | Tool                                                 |
@@ -32,12 +32,12 @@ I am committed to continuous learning and development and at any day you will al
 ### Data Engineering projects
 | Project Name                             | Tool                                                 |
 |------------------------------------------|------------------------------------------------------|
-| [Automated Reddit Data Pipeline and Analytics using Airflow and AWS integrations](https://github.com/gaurichaudhari9/reddit-data-pipeline)|<li>ETL</li><li>Apache Airflow</li><li>Celery</li><li>PostgreSQL</li><li>AWS S3</li><li>AWS Glue</li><li>AWS Athena</li><li>AWS Redshift</li> |
+| [Automated Reddit Data Pipeline and Analytics using Airflow and AWS integrations](https://github.com/gaurichaudhari9/reddit-data-pipeline)|<li>ETL, Apache Airflow, Celery, PostgreSQL, AWS S3, AWS Glue, AWS Athena, AWS Redshift</li> |
 
 ### Machine Learning/Deep Learning projects
 
-| Project Name                             | Skills                          |Tools|
-|------------------------------------------|------------------------------------------------------|-------|
+| Project Name                             | Skills                          
+|------------------------------------------|------------------------------------------------------|
 | [Quantitative Risk Analysis and Prediction of FAANG Stock Performance](https://github.com/gaurichaudhari9/quantitative-analysis-tech-stock-prediction)| <li>Monte Carlo Simulation</li><li> Time Series Analysis </li><li> Statistics </li><li> Prediction Model</li>|
 |[Optimizing fraud detection in credit card transactions](https://github.com/gaurichaudhari9/credit-card-fraud-detection-using-ml)|<li>Data Transformation</li><li>Random Forest</li><li>Decision Trees</li><li>Deep Neural Network</li><li>Undersampling</li><li>Synthetic Minority Oversampling Technique</li>|
 |[Text Classification with BERT Fine-Tuning](https://github.com/gaurichaudhari9/text-classification-bert-fine-tuning)|<li>Data Scrapping</li><li>Pretrained BERT</li>|
