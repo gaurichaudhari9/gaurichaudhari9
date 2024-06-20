@@ -22,7 +22,7 @@ I am committed to continuous learning and development and at any day you will al
 | Project Name                             | Tool                                                 |
 |------------------------------------------|------------------------------------------------------|
 | [A Visual Impact on New York's Creative Pulse - O'Neill School of Public Affairs](https://public.tableau.com/app/profile/gauri.chaudhari/viz/AVisualImpactonNewYorksCreativePulse/CRNY)|Tableau |
-| [Exploring Autism in toddlers using matplotlib and seaborn](https://github.com/gaurichaudhari9/predicting-autism/blob/main/exploring_autism_in_toddlers.ipynb)|<li>Matplotlib, Seaborn</li> |
+| [Exploring Autism in toddlers using matplotlib and seaborn](https://github.com/gaurichaudhari9/predicting-autism/blob/main/exploring_autism_in_toddlers.ipynb)|Matplotlib, Seaborn |
 
 ### Statistical Analysis projects
 | Project Name                             | Tool                                                 |
@@ -32,7 +32,7 @@ I am committed to continuous learning and development and at any day you will al
 ### Data Engineering projects
 | Project Name                             | Tool                                                 |
 |------------------------------------------|------------------------------------------------------|
-| [Automated Reddit Data Pipeline and Analytics using Airflow and AWS integrations](https://github.com/gaurichaudhari9/reddit-data-pipeline)|<li>ETL, Apache Airflow, Celery, PostgreSQL, AWS S3, AWS Glue, AWS Athena, AWS Redshift</li> |
+| [Automated Reddit Data Pipeline and Analytics using Airflow and AWS integrations](https://github.com/gaurichaudhari9/reddit-data-pipeline)|ETL, Apache Airflow, Celery, PostgreSQL, AWS S3, AWS Glue, AWS Athena, AWS Redshift|
 
 ### Machine Learning/Deep Learning projects
 
