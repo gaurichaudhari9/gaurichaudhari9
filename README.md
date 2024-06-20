@@ -18,12 +18,16 @@ I take pride in my ability to turn raw, unrefined data into **valuable insights*
 I am committed to continuous learning and development and at any day you will always find me learning something new!
 
 
-
 ### Data Visualization projects
 | Project Name                             | Tool                                                 |
 |------------------------------------------|------------------------------------------------------|
 | [A Visual Impact on New York's Creative Pulse - O'Neill School of Public Affairs](https://public.tableau.com/app/profile/gauri.chaudhari/viz/AVisualImpactonNewYorksCreativePulse/CRNY)|Tableau |
 | [Exploring Autism in toddlers using matplotlib and seaborn](https://github.com/gaurichaudhari9/predicting-autism/blob/main/exploring_autism_in_toddlers.ipynb)|<li>Matplotlib</li><li>Seaborn</li> |
+
+### Statistical Analysis projects
+| Project Name                             | Tool                                                 |
+|------------------------------------------|------------------------------------------------------|
+| [East Coast Commuting Patterns Analysis](https://github.com/gaurichaudhari9/regression-analysis-stats/tree/main)|Regression analysis, R|
 
 ### Data Engineering projects
 | Project Name                             | Tool                                                 |
@@ -42,7 +46,4 @@ I am committed to continuous learning and development and at any day you will al
 
 
 
-### Statistical Analysis projects
-| Project Name                             | Tool                                                 |
-|------------------------------------------|------------------------------------------------------|
-| [East Coast Commuting Patterns Analysis](https://github.com/gaurichaudhari9/regression-analysis-stats/tree/main)|Regression analysis, R|
+
