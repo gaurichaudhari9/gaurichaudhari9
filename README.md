@@ -8,7 +8,7 @@ I take pride in my ability to turn raw, unrefined data into **valuable insights*
 
 *   🌍  I'm based in United States
 *   ✉️  You can contact me at [gchaudh@iu.edu](mailto:gchaudh@iu.edu) or [chaudharigauri.9@gmail.com](mailto:chaudharigauri.9@gmail.com) 
-*   🧠  I'm currently working on my AWS Solutions Architect Associate Certification SAA-C03
+*   🧠  I'm currently working on my Professional Data Engineering Certification by Google.
 *   🛜  I'm open to networking and collaborating on interesting projects
 *   🤝  I'm looking for full-time opportunity in data science roles!
 *   My portfolio website: [https://gaurichaudhari9.github.io](https://gaurichaudhari9.github.io)
