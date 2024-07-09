@@ -2,7 +2,7 @@ Hi 👋 My name is Gauri
 ======================================
 #### Hey, Thanks for taking a peek! 🥳 
 ![](https://komarev.com/ghpvc/?username=gaurichaudhari9&style=plastic&label=profile+views&color=orange) 
-
+<!--
 ### Data Analysis Projects
 [![Data Analysis](https://img.shields.io/badge/Data%20Analysis%20Projects-Click%20Here-brightgreen?style=for-the-badge)](https://github.com/yourusername/data-analysis-projects)
 
@@ -44,6 +44,7 @@ Hi 👋 My name is Gauri
     </td>
   </tr>
 </table>
+-->
 
 #### Recent Master in Data Science student (2024), Indiana University Bloomington. 
 I take pride in my ability to turn raw, unrefined data into **valuable insights** that drive meaningful change.
