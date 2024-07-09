@@ -3,6 +3,48 @@ Hi 👋 My name is Gauri
 #### Hey, Thanks for taking a peek! 🥳 
 ![](https://komarev.com/ghpvc/?username=gaurichaudhari9&style=plastic&label=profile+views&color=orange) 
 
+### Data Analysis Projects
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis%20Projects-Click%20Here-brightgreen?style=for-the-badge)](https://github.com/yourusername/data-analysis-projects)
+
+<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+  <a href="https://github.com/yourusername/data-analysis-projects" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Data%20Analysis%20Projects-Explore%20Now-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Data Analysis Projects" style="font-size: 1.5em; padding: 10px;">
+  </a>
+  <a href="https://github.com/yourusername/machine-learning-projects" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Machine%20Learning%20Projects-Explore%20Now-blue?style=for-the-badge&logo=github&logoColor=white" alt="Machine Learning Projects" style="font-size: 1.5em; padding: 10px;">
+  </a>
+  <a href="https://github.com/yourusername/tableau-visualizations" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Tableau%20Visualizations-Explore%20Now-orange?style=for-the-badge&logo=github&logoColor=white" alt="Tableau Visualizations" style="font-size: 1.5em; padding: 10px;">
+  </a>
+</div>
+
+
+<p align="center">
+  <a href="https://github.com/yourusername/data-analysis-projects">
+    <img src="https://img.shields.io/badge/Data%20Analysis%20Projects-Explore%20Now-brightgreen?style=for-the-badge" alt="Data Analysis Projects">
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yourusername/data-analysis-projects">
+        <img src="https://img.shields.io/badge/Data%20Analysis%20Projects-Explore%20Now-brightgreen?style=for-the-badge" alt="Data Analysis Projects">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yourusername/machine-learning-projects">
+        <img src="https://img.shields.io/badge/Machine%20Learning%20Projects-Explore%20Now-blue?style=for-the-badge" alt="Machine Learning Projects">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yourusername/tableau-visualizations">
+        <img src="https://img.shields.io/badge/Tableau%20Visualizations-Explore%20Now-orange?style=for-the-badge" alt="Tableau Visualizations">
+      </a>
+    </td>
+  </tr>
+</table>
+
 #### Recent Master in Data Science student (2024), Indiana University Bloomington. 
 I take pride in my ability to turn raw, unrefined data into **valuable insights** that drive meaningful change.
 
