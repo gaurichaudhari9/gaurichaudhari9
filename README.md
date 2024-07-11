@@ -50,7 +50,7 @@ Hi 👋 My name is Gauri
 </table>
 -->
 
-#### Recent Master in Data Science student (2024), Indiana University Bloomington. 
+#### Recent Master in Data Science Graduate (2024), Indiana University Bloomington. 
 I take pride in my ability to turn raw, unrefined data into **valuable insights** that drive meaningful change.
 
 *   🌍  I'm based in United States
