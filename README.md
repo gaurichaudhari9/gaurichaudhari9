@@ -58,7 +58,7 @@ I take pride in my ability to turn raw, unrefined data into **valuable insights*
 *   🧠  I'm currently working on my Professional Data Engineering Certification by Google.
 *   🛜  I'm open to networking and collaborating on interesting projects
 *   🤝  I'm looking for full-time opportunity in data science roles!
-*   My portfolio website: [https://gaurichaudhari9.github.io](https://gaurichaudhari9.github.io)
+<!-- *   My portfolio website: [https://gaurichaudhari9.github.io](https://gaurichaudhari9.github.io) -->
 
 
 ## My Projects
