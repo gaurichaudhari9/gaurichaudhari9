@@ -3,7 +3,8 @@ Hi 👋 My name is Gauri
 #### Hey, Thanks for taking a peek! 🥳 
 ![](https://komarev.com/ghpvc/?username=gaurichaudhari9&style=plastic&label=profile+views&color=orange) 
 
-[![Tableau Portfolio](https://img.shields.io/badge/Data%20Analysis%20Projects-Click%20Here-brightgreen?style=for-the-badge)](https://public.tableau.com/app/profile/gauri.chaudhari/vizzes)
+
+
 
 <!--
 ### Data Analysis Projects
@@ -61,14 +62,17 @@ I take pride in my ability to turn raw, unrefined data into **valuable insights*
 
 
 ## My Projects
-I am committed to continuous learning and development and at any day you will always find me learning something new!
+I am committed to continuous learning and development and you'll often find me delving into new knowledge and enhancing my skills! I love learning about different domains and working out how can I improve their use-cases.  Click on any one of the badges to learn more about my projects :)
+
+### Data Visualization / Dashboarding
+<a href="https://public.tableau.com/app/profile/gauri.chaudhari/vizzes">
+  <img src="https://img.shields.io/badge/Tableau%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #B0E0E6;"/>
+</a>
 
 
-### Data Visualization projects
-| Project Name                             | Tool                                                 |
-|------------------------------------------|------------------------------------------------------|
-| [A Visual Impact on New York's Creative Pulse - O'Neill School of Public Affairs](https://public.tableau.com/app/profile/gauri.chaudhari/viz/AVisualImpactonNewYorksCreativePulse/CRNY)|Tableau |
-| [Exploring Autism in toddlers using matplotlib and seaborn](https://github.com/gaurichaudhari9/predicting-autism/blob/main/exploring_autism_in_toddlers.ipynb)|Matplotlib, Seaborn |
+
+
+
 
 ### Statistical Analysis projects
 | Project Name                             | Tool                                                 |
