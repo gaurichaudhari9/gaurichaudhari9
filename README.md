@@ -3,7 +3,22 @@ Hi 👋 My name is Gauri
 #### Hey, Thanks for taking a peek! 🥳 
 ![](https://komarev.com/ghpvc/?username=gaurichaudhari9&style=plastic&label=profile+views&color=orange) 
 
-
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <h1>Data Visualization</h1>
+      <a href="https://public.tableau.com/app/profile/gauri.chaudhari/vizzes">
+        <img src="https://img.shields.io/badge/Tableau%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #B0E0E6;"/>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <h1>Data Visualization</h1>
+      <a href="https://public.tableau.com/app/profile/gauri.chaudhari/vizzes">
+        <img src="https://img.shields.io/badge/Tableau%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #B0E0E6;"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <!--
