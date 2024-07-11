@@ -3,22 +3,7 @@ Hi 👋 My name is Gauri
 #### Hey, Thanks for taking a peek! 🥳 
 ![](https://komarev.com/ghpvc/?username=gaurichaudhari9&style=plastic&label=profile+views&color=orange) 
 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <h1>Data Visualization</h1>
-      <a href="https://public.tableau.com/app/profile/gauri.chaudhari/vizzes">
-        <img src="https://img.shields.io/badge/Tableau%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #B0E0E6;"/>
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <h1>Data Visualization</h1>
-      <a href="https://public.tableau.com/app/profile/gauri.chaudhari/vizzes">
-        <img src="https://img.shields.io/badge/Tableau%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #B0E0E6;"/>
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 
 <!--
@@ -79,11 +64,22 @@ I take pride in my ability to turn raw, unrefined data into **valuable insights*
 ## My Projects
 I am committed to continuous learning and development and you'll often find me delving into new knowledge and enhancing my skills! I love learning about different domains and working out how can I improve their use-cases.  Click on any one of the badges to learn more about my projects :)
 
-### Data Visualization / Dashboarding
-<a href="https://public.tableau.com/app/profile/gauri.chaudhari/vizzes">
-  <img src="https://img.shields.io/badge/Tableau%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #B0E0E6;"/>
-</a>
-
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <h3>Data Visualization /Dashboarding</h3>
+      <a href="https://public.tableau.com/app/profile/gauri.chaudhari/vizzes">
+        <img src="https://img.shields.io/badge/Tableau%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #B0E0E6;"/>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <h3>Data Visualization</h3>
+      <a href="https://public.tableau.com/app/profile/gauri.chaudhari/vizzes">
+        <img src="https://img.shields.io/badge/Tableau%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #B0E0E6;"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
