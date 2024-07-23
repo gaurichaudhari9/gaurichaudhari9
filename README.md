@@ -73,9 +73,9 @@ I am committed to continuous learning and development and you'll often find me d
       </a>
     </td>
     <td style="text-align: center;">
-      <h3>Data Visualization</h3>
-      <a href="https://public.tableau.com/app/profile/gauri.chaudhari/vizzes">
-        <img src="https://img.shields.io/badge/Tableau%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #B0E0E6;"/>
+      <h3>Statistics Projects</h3>
+      <a href="https://github.com/gaurichaudhari9/regression-analysis-stats/tree/main">
+        <img src="https://img.shields.io/badge/Statistics%20Portfolio-Click%20Here-salmon?style=for-the-badge&logo=r&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #E6A87C;"/>
       </a>
     </td>
   </tr>
@@ -84,11 +84,12 @@ I am committed to continuous learning and development and you'll often find me d
 
 
 
-
+<!--
 ### Statistical Analysis projects
 | Project Name                             | Tool                                                 |
 |------------------------------------------|------------------------------------------------------|
 | [East Coast Commuting Patterns Analysis](https://github.com/gaurichaudhari9/regression-analysis-stats/tree/main)|Regression analysis, R|
+-->
 
 ### Data Engineering projects
 | Project Name                             | Tool                                                 |
