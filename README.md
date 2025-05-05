@@ -54,8 +54,7 @@ Hi 👋 My name is Gauri
 I take pride in my ability to turn raw, unrefined data into **valuable insights** that drive meaningful change.
 
 *   🌍  I'm based in United States
-*   ✉️  You can contact me at [gchaudh@iu.edu](mailto:gchaudh@iu.edu) or [chaudharigauri.9@gmail.com](mailto:chaudharigauri.9@gmail.com) 
-*   🧠  I'm currently working on my AWS Associate Solution Architect Certification (September 2024).
+*   ✉️  You can contact me at [chaudharigauri.9@gmail.com](mailto:chaudharigauri.9@gmail.com) 
 *   🛜  I'm open to networking and collaborating on interesting projects
 *   🤝  I'm looking for full-time opportunity in data science roles!
 <!-- *   My portfolio website: [https://gaurichaudhari9.github.io](https://gaurichaudhari9.github.io) -->
