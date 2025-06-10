@@ -4,7 +4,9 @@ Hi 👋 My name is Gauri
 ![](https://komarev.com/ghpvc/?username=gaurichaudhari9&style=plastic&label=profile+views&color=orange) 
 
 #### Recent Master in Data Science Graduate (2024), Indiana University Bloomington. 
-I take pride in my ability to turn raw, unrefined data into **valuable insights** that drive meaningful change.
+> I take pride in transforming raw, unrefined data into valuable insights that drive strategic decision-making and measurable impact.
+
+I thrive on a hands-on approach to data analysis, leveraging a broad toolkit — from machine learning algorithms to statistical modeling — to uncover patterns, trends, and insights others might overlook. My curiosity drives me beyond familiar ground; I am deeply committed to continuous learning and staying ahead in the fast-paced, ever-evolving field of data science.
 
 *   🌍  I'm based in India.
 *   ✉️  You can contact me at [chaudharigauri.9@gmail.com](mailto:chaudharigauri.9@gmail.com) 
