@@ -27,6 +27,12 @@ I am committed to continuous learning and development and you'll often find me d
         <img src="https://img.shields.io/badge/Statistics%20Portfolio-Click%20Here-salmon?style=for-the-badge&logo=r&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #E6A87C;"/>
       </a>
     </td>
+    <td style="text-align: center;">
+      <h3>E-Commerce Projects</h3>
+      <a href="https://github.com/gaurichaudhari9/ECommerce-Sales-Analysis">
+        <img src="https://img.shields.io/badge/ECommerce%20Portfolio-Click%20Here-salmon?style=for-the-badge&logo=r&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #E6A87C;"/>
+      </a>
+    </td>
   </tr>
 </table>
 
