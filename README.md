@@ -30,7 +30,10 @@ I am committed to continuous learning and development and you'll often find me d
     <td style="text-align: center;">
       <h3>E-Commerce Projects</h3>
       <a href="https://github.com/gaurichaudhari9/ECommerce-Sales-Analysis">
-        <img src="https://img.shields.io/badge/ECommerce%20Portfolio-Click%20Here-salmon?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #E6A87C;"/>
+        <img src="https://img.shields.io/badge/ECommerce%20Sales%20Analysis-Click%20Here-forestgreen?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #E6A87C;"/>
+      </a>
+      <a href="https://github.com/gaurichaudhari9/ECommerce-Sales-Analysis">
+        <img src="https://img.shields.io/badge/Price%20Optimization%20-Click%20Here-forestgreen?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #E6A87C;"/>
       </a>
     </td>
   </tr>
