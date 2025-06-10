@@ -15,6 +15,45 @@ I thrive on a hands-on approach to data analysis, leveraging a broad toolkit —
 ## My Projects
 I am committed to continuous learning and development and you'll often find me delving into new knowledge and enhancing my skills! I love learning about different domains and working out how can I improve their use-cases.  Click on any one of the badges to learn more about my projects :)
 
+
+<table>
+  <tr>
+    <td colspan="2" style="text-align: center;">
+      <h3>E-Commerce Projects</h3>
+      <a href="https://github.com/gaurichaudhari9/ECommerce-Sales-Analysis" style="margin-right: 10px;">
+        <img src="https://img.shields.io/badge/ECommerce%20Sales%20Analysis-Click%20Here-228B22?style=for-the-badge&logo=microsoft-excel&logoColor=white"
+             alt="ECommerce Sales Analysis"
+             style="width: 300px; height: 60px; object-fit: contain;" />
+      </a>
+      <a href="https://github.com/gaurichaudhari9/Boosting-Sales-Margin-of-a-product-using-Price-Optimization">
+        <img src="https://img.shields.io/badge/Price%20Optimization-Click%20Here-228B22?style=for-the-badge&logo=python&logoColor=white"
+             alt="Price Optimization Project"
+             style="width: 300px; height: 60px; object-fit: contain;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <h3>Data Visualization / Dashboarding</h3>
+      <a href="https://public.tableau.com/app/profile/gauri.chaudhari/vizzes">
+        <img src="https://img.shields.io/badge/Tableau%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=tableau&logoColor=white"
+             alt="Tableau Portfolio"
+             style="width: 300px; height: 60px; object-fit: contain;" />
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <h3>Statistics Projects</h3>
+      <a href="https://github.com/gaurichaudhari9/regression-analysis-stats/tree/main">
+        <img src="https://img.shields.io/badge/Statistics-Click%20Here-6A5ACD?style=for-the-badge&logo=python&logoColor=white"
+             alt="Statistics Portfolio"
+             style="width: 300px; height: 60px; object-fit: contain;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 <table>
   <tr>
     <td colspan="2" style="text-align: center;">
