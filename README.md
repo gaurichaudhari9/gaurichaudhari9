@@ -16,30 +16,31 @@ I am committed to continuous learning and development and you'll often find me d
 <table>
   <tr>
     <td style="text-align: center;">
-      <h3>Data Visualization /Dashboarding</h3>
+      <h3>Data Visualization / Dashboarding</h3>
       <a href="https://public.tableau.com/app/profile/gauri.chaudhari/vizzes">
-        <img src="https://img.shields.io/badge/Tableau%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #B0E0E6;"/>
+        <img src="https://img.shields.io/badge/Tableau%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto;" />
       </a>
     </td>
     <td style="text-align: center;">
       <h3>Statistics Projects</h3>
       <a href="https://github.com/gaurichaudhari9/regression-analysis-stats/tree/main">
-        <img src="https://img.shields.io/badge/Statistics%20Portfolio-Click%20Here-salmon?style=for-the-badge&logo=r&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #E6A87C;"/>
+        <img src="https://img.shields.io/badge/Statistics%20Portfolio-Click%20Here-6A5ACD?style=for-the-badge&logo=python&logoColor=white" alt="Statistics Portfolio" style="width: 300px; height: auto;" />
       </a>
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;">
+    <td colspan="2" style="text-align: center;">
       <h3>E-Commerce Projects</h3>
       <a href="https://github.com/gaurichaudhari9/ECommerce-Sales-Analysis">
-        <img src="https://img.shields.io/badge/ECommerce%20Sales%20Analysis-Click%20Here-forestgreen?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #E6A87C;"/>
-      </a>
-      <a href="https://github.com/gaurichaudhari9/ECommerce-Sales-Analysis">
-        <img src="https://img.shields.io/badge/Price%20Optimization%20-Click%20Here-forestgreen?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Tableau Portfolio" style="width: 300px; height: auto; background-color: #E6A87C;"/>
+        <img src="https://img.shields.io/badge/ECommerce%20Sales%20Analysis-Click%20Here-228B22?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="ECommerce Sales Analysis" style="width: 300px; height: auto;" />
+      </a><br/>
+      <a href="https://github.com/gaurichaudhari9/Boosting-Sales-Margin-of-a-product-using-Price-Optimization">
+        <img src="https://img.shields.io/badge/Price%20Optimization-Click%20Here-228B22?style=for-the-badge&logo=python&logoColor=white" alt="Price Optimization Project" style="width: 300px; height: auto;" />
       </a>
     </td>
   </tr>
 </table>
+
 
 ### Data Engineering projects
 | Project Name                             | Tool                                                 |
